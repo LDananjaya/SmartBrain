@@ -11,6 +11,8 @@ Button b5;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
+        Button btn;
+
         b5.findViewById(R.id.button5);
         b5.setText("Home");
     }
