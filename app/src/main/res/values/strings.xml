@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">Smart Brain</string>
+    <string name="SingUp">SIGN-UP</string>
+    <string name="eng1">how many letters in english alphabet?</string>
+    <string name="eng2">23</string>
+    <string name="eng3">26</string>
+    <string name="eng4">24</string>
+    <string name="eng5">25</string>
+
+    <string name="en1">what is the different word?</string>
+    <string name="en2">grey</string>
+    <string name="en3">orange</string>
+    <string name="en4">silver</string>
+    <string name="en5">mouse</string>
+
+    <string name="e1">which one is the most suitable?</string>
+    <string name="e2">we are played cricket</string>
+    <string name="e3">i asked him that</string>
+    <string name="e4">you are ate rice</string>
+    <string name="e5">i is drink water</string>
+    <string name="a">SmartBrain</string>
+    <string name="b">your score</string>
+    <string name="c">question 01</string>
+    <string name="d">10</string>
+    <string name="e">PREVIOUS</string>
+    <string name="f">NEXT</string>
+
+    <string name="g">NAME</string>
+    <string name="h">E MAIL</string>
+    <string name="i">PASSWORD</string>
+    <string name="j">RE-ENTER PASSWORD</string>
+    <string name="k">SIGN-IN</string>
+    <string name="app_name" />
+
 </resources>
