@@ -9,13 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".EnglishMedium"></activity>
-        <activity android:name=".EnglishHard" />
-        <activity android:name=".Englisheasy" />
-        <activity android:name=".SignUp" />
-        <activity android:name=".EnglishSelection" />
-        <activity android:name=".HomePage" />
-        <activity android:name=".Main2Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".EnglishMedium" />
+        <activity android:name=".EnglishHard" />
+        <activity android:name=".Englisheasy" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".EnglishSelection" />
+        <activity android:name=".HomePage" />
     </application>
 
 </manifest>
