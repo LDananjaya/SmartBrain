@@ -16,12 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".EnglishMedium" />
-        <activity android:name=".EnglishHard" />
-        <activity android:name=".Englisheasy" />
-        <activity android:name=".SignUp" />
-        <activity android:name=".EnglishSelection" />
-        <activity android:name=".HomePage" />
     </application>
 
 </manifest>
