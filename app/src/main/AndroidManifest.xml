@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LogIn"></activity>
+        <activity android:name=".MathsHard"></activity>
+        <activity android:name=".MathsMedium" />
+        <activity
+            android:name=".MathsEasy"
+            android:label="@string/title_activity_maths_easy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MathsSelection" />
+        <activity android:name=".LogIn" />
         <activity android:name=".EnglishMedium" />
         <activity android:name=".EnglishHard" />
         <activity android:name=".Englisheasy" />
