@@ -29,6 +29,21 @@
     <string name="i">PASSWORD</string>
     <string name="j">RE-ENTER PASSWORD</string>
     <string name="k">SIGN-IN</string>
-    <string name="app_name" />
+
+    <string name="question">How many times would the digit, 2, be written if you wrote down all the whole numbers from 1 to 100? </string>
+    <string name="checkbox1">10</string>
+    <string name="checkbox2">11</string>
+    <string name="checkbox3">19</string>
+    <string name="checkbox4">20</string>
+    <string name="easyy">(10,000 / 50) * 5</string>
+    <string name="check1">100</string>
+    <string name="check2">1000</string>
+    <string name="check3">2000</string>
+    <string name="check4">40</string>
+    <string name="easy">(625 / ___ = 25)</string>
+    <string name="chec1">25</string>
+    <string name="chec2">625</string>
+    <string name="chec3">1</string>
+    <string name="chec4">250</string>
 
 </resources>
