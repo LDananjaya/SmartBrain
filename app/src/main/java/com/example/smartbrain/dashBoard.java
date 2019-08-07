@@ -40,6 +40,11 @@ public class dashBoard extends AppCompatActivity implements View.OnClickListener
                 startActivity(intent);
                 break;
 
+            case R.id.EnglishBtn:
+                    Intent english = new Intent(dashBoard.this, EnglishSelection.class);
+                    startActivity(english);
+                    break;
+
         }
     }
 }

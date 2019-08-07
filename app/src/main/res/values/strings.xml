@@ -35,4 +35,22 @@
     <string name="topic" />
     <string name="Homebtn" />
 
+    <string name="ScienceBtn">Science</string>
+    <string name="HistoryBtn">History</string>
+    <string name="Answer3">03 Answer</string>
+    <string name="hardbtn">HARD</string>
+    <string name="Answer2">02 Answer</string>
+    <string name="easybtn">EASY</string>
+    <string name="mediambtn">MEDIAM</string>
+    <string name="score">Score</string>
+    <string name="quesNo">Question 01</string>
+    <string name="Answer1">01 Answer</string>
+    <string name="nextbtn">Next</string>
+    <string name="quesNo2">Question 02</string>
+    <string name="Answer4">04 Answer</string>
+    <string name="question1">who is the prime minister of sri lanka</string>
+    <string name="question2">who is the president of sri lanka</string>
+    <string name="playbtn">Play</string>
+    <string name="Exitbtn">Exit</string>
+
 </resources>
