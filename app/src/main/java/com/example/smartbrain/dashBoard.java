@@ -13,6 +13,7 @@ public class dashBoard extends AppCompatActivity implements View.OnClickListener
     Button EnglishBtn;
     Button mathsBtn;
     Button ScienceBtn;
+    Button dashHomeBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +31,9 @@ public class dashBoard extends AppCompatActivity implements View.OnClickListener
 
         ScienceBtn = findViewById(R.id.ScienceBtn);
         ScienceBtn.setOnClickListener(this);
+
+        dashHomeBtn = findViewById(R.id.dashHomebtn);
+        dashHomeBtn.setOnClickListener(this);
     }
 
     @Override
@@ -39,6 +43,13 @@ public class dashBoard extends AppCompatActivity implements View.OnClickListener
                 Intent intent = new Intent(dashBoard.this, difficulty.class);
                 startActivity(intent);
                 break;
+
+            case R.id.dashHomebtn:
+                Intent home = new Intent(dashBoard.this, MainActivity.class);
+                startActivity(home);
+                break;
+
+
 
         }
     }
